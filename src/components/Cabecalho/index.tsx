@@ -1,9 +1,10 @@
 import styled from 'styled-components'
 
 const Header = styled.header`
-  background-color: #182c61;
-  color: white;
-  padding: 16px;
+  background-color: var(--cor-secundaria);
+  color: var(--cor-principal);
+  text-align: center;
+  padding: 24px 0;
 `
 
 const Cabecalho = () => (

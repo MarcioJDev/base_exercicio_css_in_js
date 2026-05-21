@@ -15,7 +15,7 @@ const VagaItem = styled.li`
   background-color: var(--cor-secundaria);
   color: var(--cor-principal);
   padding: 16px;
-  transition: all 0.3s ease;
+  transition: all ease 0.3s;
   border-radius: 8px;
 
   &:hover {
